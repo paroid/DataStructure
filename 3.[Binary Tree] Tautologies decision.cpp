@@ -1,11 +1,12 @@
+//by paroid
+
 #include<iostream>
 #include<string>
 using namespace std;
 #define MAX 200		// expression length
 #define LEN 100    	//stack length
-// By ChKo  软信0801 陈科 20083563
 
-void gray(int n,bool *code){	// 取得下一个  00...000 -  1000...
+void gray(int n,bool *code){	// 取锟斤拷锟斤拷一锟斤拷  00...000 -  1000...
 	int t=0,i;
 	for (i=0;i<n;t+=code[i++]);
 	if (t&1)
