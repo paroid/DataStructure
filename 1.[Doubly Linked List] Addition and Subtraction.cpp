@@ -4,7 +4,7 @@
 using namespace std;
 #define MAX 500   // the max length of the input string
 
-// By ChKo  ÈíÐÅ0801 ³Â¿Æ  20083563
+// By ChKo  è½¯ä¿¡0801 é™ˆç§‘  20083563
 
 class node{			// class node
 public:
