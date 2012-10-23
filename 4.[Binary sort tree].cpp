@@ -1,8 +1,10 @@
+//by paroid
+
 #include<iostream>
 #include<string>
 #include<time.h>
 using namespace std;
-// By ChKo  ÈíÐÅ0801 ³Â¿Æ 20083563
+
 #define _cmp_ >
 
 class tnode{
