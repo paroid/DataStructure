@@ -4,7 +4,7 @@
 using namespace std;
 #define MAX 500   // the max length of the input string
 
-// By ChKo  软信0801 陈科  20083563
+// by paroid
 
 class node{			// class node
 public:
