@@ -1,9 +1,10 @@
+//by paroid
+
 #include<iostream>
 #include<string>
 #include<math.h>
 using namespace std;
 #define MAX 200
-// By ChKo  ÈíÐÅ0801 ³Â¿Æ 20083563 
 
 template<class type> class Stack{    // stack 
 public:
