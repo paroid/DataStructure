@@ -1,10 +1,10 @@
+// by paroid
+
 #include<iostream>
 #include<iomanip>
 #include<string>
 using namespace std;
 #define MAX 500   // the max length of the input string
-
-// by paroid
 
 class node{			// class node
 public:
