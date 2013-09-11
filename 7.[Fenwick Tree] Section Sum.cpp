@@ -11,7 +11,7 @@ using namespace std;
 int a[MAXN],c[MAXN],n;
 
 int lowbit(int p){
-    return p&(p^(p-1));
+    return p&(-p);
 }
 
 void modify(int p,int delta){
